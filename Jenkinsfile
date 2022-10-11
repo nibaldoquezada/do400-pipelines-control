@@ -54,7 +54,7 @@ pipeline {
                 message 'Deploy the application?'
 
            }
-           }
+           
 
             steps {
 
